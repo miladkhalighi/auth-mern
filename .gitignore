@@ -1,0 +1,92 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Logs
+logs/
+*.log
+logs/*.log
+*.log.*
+
+# Dependency directories
+vendor/
+composer.lock
+
+# OS-specific files
+.DS_Store     # macOS
+Thumbs.db     # Windows
+desktop.ini   # Windows
+
+# IDEs and editors
+.idea/           # IntelliJ-based IDEs
+.vscode/         # Visual Studio Code
+*.swp            # Vim swap files
+*.swo            # Vim swap files
+*.bak            # Backup files
+*.tmp            # Temporary files
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build files
+dist/
+build/
+out/
+target/
+*.class          # Java compiled classes
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Test coverage
+coverage/
+*.lcov
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Java
+*.war
+*.jar
+*.class
+
+# Flutter/Dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.pub-cache/
+build/
+
+# Ignore local files
+*.iml
+*.local
+
+# Compression and archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.tgz
+*.bz2
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
