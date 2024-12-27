@@ -1,5 +1,7 @@
 ## Technologies Used
 
+<img src="frontend/public/screenshot.png" alt="Portfolio Screenshot" width="500">
+
 ### Front-End:
 - **React.js**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
@@ -22,3 +24,4 @@
 | `MAILTRAP_TOKEN`       | Mailtrap API token                           | `your_mailtrap_token`         |
 | `MAILTRAP_WELCOME_UUID`| UUID for the welcome email template          | `template_uuid_here`          |
 | `CLIENT_URL`           | URL of the client application                | `http://localhost:5000`       |
+
