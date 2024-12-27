@@ -83,10 +83,3 @@ build/
 *.gz
 *.tgz
 *.bz2
-
-# Images
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.ico
